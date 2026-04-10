@@ -29,8 +29,8 @@
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/DrZushaa/fwd_passcracker.git
-cd fwd_passcracker
+https://github.com/DrZushaa/FWD_Password_Cracker.git
+cd FWD_Password_Cracker
 ```
 
 ### Install Dependencies
